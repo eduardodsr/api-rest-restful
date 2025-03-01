@@ -115,7 +115,9 @@ http://localhost:3000/clients
 
 http://localhost:3000/clients/1
 
+<!--
 <img src="./img/1.png" width="800px">
+-->
 
 ### POST
 
@@ -123,12 +125,14 @@ http://localhost:3000/clients
 
 ```json
 {
-  "name": "Eduardo",
-  "email": "eduardodsr@gmail.com"
+  "name": "X",
+  "email": "X"
 }
 ```
 
+<!--
 <img src="./img/2.png" width="800px">
+-->
 
 ### PUT
 
@@ -136,15 +140,19 @@ http://localhost:3000/clients/1
 
 ```json
 {
-  "name": "Eduardo",
-  "email": "eduardodsr@gmail.com"
+  "name": "X",
+  "email": "X"
 }
 ```
 
+<!--
 <img src="./img/3.png" width="800px">
+-->
 
 ### DELETE
 
 http://localhost:3000/clients/1
 
+<!--
 <img src="./img/4.png" width="800px">
+-->
